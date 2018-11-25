@@ -22,6 +22,6 @@ If you have a friend who you think might be struggling, be there for them. If yo
 
 If you have no friend to share your mind, I just want to let you know I'm here.
 ------
-I am here to listen to you. Feel free to e-mail at [writetome@yourlifeisworthliving.com](mailto:writetome@yourlifeisworthliving.com). I promise to read each and everyone of you.
+I am here to listen to you. Feel free to get in touch at [writetome@yourlifeisworthliving.com](mailto:writetome@yourlifeisworthliving.com). I promise to read each and everyone of you.
 
 I love you.
