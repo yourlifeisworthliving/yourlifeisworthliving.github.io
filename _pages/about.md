@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I know you are struggling. But one thing you should know, your life is worth living. You can trust me on that.
 
 Please don't take your life. Stick around.
