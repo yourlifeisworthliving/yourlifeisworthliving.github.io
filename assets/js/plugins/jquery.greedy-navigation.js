@@ -5,7 +5,7 @@
 *
 */
 
-var $nav = $('#site-nav');
+/* var $nav = $('#site-nav');
 var $btn = $('#site-nav button');
 var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
@@ -69,4 +69,4 @@ $btn.on('click', function() {
   $(this).toggleClass('close');
 });
 
-updateNav();
+updateNav(); */
