@@ -23,12 +23,12 @@ __I love you.__
 
 If you have a friend who you think might be struggling, be there for them. If you feel like you don't have a friend in your life like this right now I want you to know that I see you. I believe in you. I want you to experience all this life has to offer. Please don't go anywhere.
 
-###If you have no friend to share your story, I just want to let you know I'm here.
-------
+### If you have no friend to share your story, I just want to let you know I'm here.
+---
 [Feel free to reach out to me](mailto:writetome@yourlifeisworthliving.com). I promise to read each and every message.
 
 __And never forget, there are humans who'd love to have you by their side.__
 
 __I love you.__
 
-> He who conquers others is strong; He who conquers himself is mighty. - _Lao Tzu_
+> He who conquers others is strong; He who conquers himself is mighty. - __Lao Tzu__
