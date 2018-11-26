@@ -5,7 +5,7 @@ excerpt: "Your Life is Worth Living"
 author_profile: false
 ---
 
-I know you're struggling, you're depressed and having anxiety. I know you're feeling alone. But let me tell you. There are many just like you. The world is big.
+I know you're struggling, depressed and having anxiety. I know you're feeling alone. But let me tell you. There are many just like you. The world is big.
 
 Whether you are being bullied, struggling with your studies or accepted that you have chosen the wrong career. Whether you just lost a loved one, broke up with the one you thought you'd spend the rest of your life or accepted that you're part of the LGBTQ+ family.
 
