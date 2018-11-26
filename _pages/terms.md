@@ -12,9 +12,9 @@ modified: 2018-11-22
 
 Your Life is Worth Living ("us", "we", or "our") operates the [https://yourlifeisworthliving.com](https://yourlifeisworthliving.com) website (the "Service").
 
-This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Your Life is Worth Living is managed through Free Privacy Policy Website.
+This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
-We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://yourlifeisworthliving.com](https://yourlifeisworthliving.com)
+We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible from [https://yourlifeisworthliving.com/terms](https://yourlifeisworthliving.com/terms)
 
 ## Information Collection And Use
 
