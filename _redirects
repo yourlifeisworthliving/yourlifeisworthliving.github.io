@@ -1,2 +1,2 @@
 # Redirect default Netlify subdomain to primary domain
-https://yourlifeisworthliving.netlify.com/* https://yourlifeisworthliving.com/:splat 301!
+https://yourlifeisworthliving.netlify.com/* https://www.yourlifeisworthliving.com/:splat 301!
